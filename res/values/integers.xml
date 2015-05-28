@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="column_count">2</integer>
+    <integer name="tip_colunm">0</integer>
+    <integer name="tip_row">3</integer>
+    <integer name="m_length">6</integer>
+    <integer name="bar">30</integer>
+    <integer name="prog">18</integer>
+</resources>
